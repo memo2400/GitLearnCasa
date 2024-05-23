@@ -13,8 +13,34 @@ ejecutamos a git y usamos esa linea
 $ code .
 
 se abre el VS code.
-lado izquierdo se pondra el remote
+lado izquierdo se pondra el remote en el explorer.
 
+
+usamos el comando clone asi para bajar la capia.
+debe decir 100%
+git clone https://github.com/memo2400/GitLearn.git
+
+
+
+damos 
+ls 
+dice que ya tenemos la carpetita
+
+
+cd Carpeta
+entramos a ala carpeta
+
+git log
+compruebo que todo se bajo con commits
+
+
+HEAD -> master, origin/master, origin/HEAD
+eso vemos en el commit significa, que el repo apunta al del
+repor remoto github, origen/master
+/rama = puede ser cualquier rama que querramos
+
+
+3:06:08 fin 
 
 
 
