@@ -37,6 +37,16 @@ debe decir 100%
 
 la fecha es de hora dle commits
 
+
+ya podriamos usar solo el comando, 
+git push
+
+
+
+pero es prefernete usar el que tiene todo
+$ git push origin master
+
+
 3:11:00 fin
 
 
