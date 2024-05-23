@@ -1,0 +1,14 @@
+
+coomits checkouts
+
+borra un archvio, los borrados tambien son gestionado por git
+rm archivo.txt
+
+
+pueso usar git add para agregarlo
+o puedo usar git commit -a para borrarlo
+
+
+solo funciona para restaurar archivos borrados que ya estaban cargados 
+con add de forma previa.
+git restore archivo.txt 
