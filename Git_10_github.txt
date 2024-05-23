@@ -1,0 +1,11 @@
+
+el archivo readme todos siempre lo veran
+
+
+hay mensajes de commit en hub
+
+el forks es alguien que hizo una copia
+
+release s y pakages lo quita desde la ventana de config
+
+vamos al principal y  bopton add, agregamos los RCHIVOS
