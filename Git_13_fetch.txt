@@ -1,0 +1,9 @@
+
+Pull y Fetch
+son para poder bajar los cambios que se hicieron en el remoto
+
+
+
+
+
+
