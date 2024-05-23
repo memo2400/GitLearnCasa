@@ -2,3 +2,19 @@
 clonar repo, es que un repo de server, ahora este en nuestra casa
 se copia de la nube a nuestra commits zone
 3:00:00
+
+lo que hay en remoto es casi lo mismo que el repo local de commits
+vamos a descargar lo del remoto y bajarlo al commits, si ese repo tenia commits, se bajara con todos los commits
+
+de las formas de clonal la mas segura es SSH, de las tres formas existentes.
+
+vamos al carpeta y abrirmos 
+ejecutamos a git y usamos esa linea
+$ code .
+
+se abre el VS code.
+lado izquierdo se pondra el remote
+
+
+
+
