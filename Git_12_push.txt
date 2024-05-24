@@ -50,7 +50,11 @@ $ git push origin master
 3:11:00 fin
 
 Linea pos fin para prueba
+<<<<<<< HEAD
 
+=======
+var = dos
+>>>>>>> d72d4b72b5ef23f96231a5f53b883bbb17e72028
 
 
 
