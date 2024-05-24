@@ -50,7 +50,7 @@ $ git push origin master
 3:11:00 fin
 
 Linea pos fin para prueba
-var = uno
+var = dos
 
 
 
