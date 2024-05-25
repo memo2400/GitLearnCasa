@@ -23,7 +23,13 @@ git pull
         Updating 41db0c10cd..d72d4b72b5
 
     para que no hayya error, primero subimos nuestros archivos al stage, con "add".
-    despues se nos abrira la parte de editar el merge.
+    depues el git commit
+    despues se nos abrira la parte de editar el merge, para solucionar el error.
+    alli se bare y arriba dice aceptar o ignorar, escojemos el que queramos
+    luego el "complete merge"
+
+    lo que salga en rojo marca que esta en eliminado, en el eejmplo era un archivo eliminado
+
 
 
 
