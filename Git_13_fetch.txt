@@ -36,6 +36,11 @@ git pull
 
 git fecht
     no cambuia todo , sino que es menos agresvo.
+    manda un mensajes que nos debemos mover a la rama
+
+    usamos
+git switch origin/master
+
 
 
 
