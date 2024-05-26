@@ -1,0 +1,49 @@
+
+Pull y Fetch
+son para poder bajar los cambios que se hicieron en el remoto
+
+
+git pull   (git pull origin master)
+nos baja los cambios que estan en el remoto que nosotoro no tenemos,
+con ello evitamos bajar todo como en el clone.
+el origin master es cuando no estamos sincronizados.
+
+
+
+git pull 
+    hace git fecht y despues git merch
+    ose abaja cosas del server y lo fusioona directo con el repo local
+    es rapido, pero al saltarse pasos puede causar pedillos de fusion.
+    si usamos este cuando cambiamos la misma linea de codigo del mismo archivo al mismo tiempo se aborta.
+    sale algo como eso
+        error: Your local changes to the following files would be overwritten by merge:
+            Git_12_push.txt
+        Please commit your changes or stash them before you merge.
+        Aborting
+        Updating 41db0c10cd..d72d4b72b5
+
+    para que no hayya error, primero subimos nuestros archivos al stage, con "add".
+    depues el git commit
+    despues se nos abrira la parte de editar el merge, para solucionar el error.
+    alli se bare y arriba dice aceptar o ignorar, escojemos el que queramos
+    luego el "complete merge"
+
+    lo que salga en rojo marca que esta en eliminado, en el eejmplo era un archivo eliminado
+
+
+
+
+
+git fecht
+    no cambuia todo , sino que es menos agresvo.
+
+
+
+
+
+
+
+
+
+
+

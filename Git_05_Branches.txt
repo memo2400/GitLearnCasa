@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 01:31:38
 Branches
@@ -36,3 +37,43 @@ muestra las ramas que tenemos
 
 
 
+=======
+
+01:31:38
+Branches
+Linux lo creo
+
+Rama= puntero que apunta a un conjunto de commits en codigo
+es una copia paralela del master.
+
+
+Ramam puede servir para arreglar algo del codigo que estaba mal
+y al final si ya sirve lo regresamos a codigo main
+
+el merge es fusuinbal lo de la rama con el main
+lo esplica asi
+			merge	
+rama	       0--- 0--- 
+0-- 0 --- 0 ---0 -------0
+
+
+puede haber 3 pesornas trabajndo cada una en su rama,, y al final todos unen sus ramas
+la rama es temoral. comoptimizar o nueva funcion, pero despuesse merge y borramos la rama.
+
+
+git branch
+muestra las ramas que tenemos
+
+
+01:36:00
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master

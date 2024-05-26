@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 el archivo readme todos siempre lo veran
 
@@ -18,3 +19,16 @@ como la ramael nombre uque sea master, check al Issues y Wikis
 Danger Zone cosas que casi no tocamos, podemos alli tranferir el repo,  se puede hacer solo leectura todo el archvio
 
 
+=======
+
+el archivo readme todos siempre lo veran
+
+
+hay mensajes de commit en hub
+
+el forks es alguien que hizo una copia
+
+release s y pakages lo quita desde la ventana de config
+
+vamos al principal y  bopton add, agregamos los RCHIVOS
+>>>>>>> origin/master

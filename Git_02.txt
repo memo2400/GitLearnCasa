@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 coomits checkouts
 
@@ -12,3 +13,33 @@ o puedo usar git commit -a para borrarlo
 solo funciona para restaurar archivos borrados que ya estaban cargados 
 con add de forma previa.
 git restore archivo.txt 
+=======
+
+coomits checkouts
+
+borra un archvio, los borrados tambien son gestionado por git
+rm archivo.txt
+
+
+pueso usar git add para agregarlo
+o puedo usar git commit -a para borrarlo
+
+
+solo funciona para restaurar archivos borrados que ya estaban cargados 
+con add de forma previa.
+git restore archivo.txt .
+
+
+git checkout 
+vuelve atras hasta el ultimo commit,
+el commmit es como si fuera una foto y siempre regresamos a el
+
+git reset
+deshacer cambios
+vilvemos en el tiempo a un punto anterior
+
+
+git reset --hard 
+regresamos al ultimo codigo guardado commit,
+lo que hace es ignorar los git add, se recomienda con mucho cuidado
+>>>>>>> origin/master

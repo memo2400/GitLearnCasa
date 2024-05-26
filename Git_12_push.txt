@@ -1,0 +1,60 @@
+
+Push
+este es para subir
+
+
+para subir usaremos push, para que todo se suba al push
+en git status se ve el "up to date with origin/master" eso significa que estamos
+al dia con el remoto
+
+
+para que se puedan subir los datos debo registrar el mismo email que tengo en el 
+repo remoto, 
+$ git config --global user.email "memorosas.00@gmail.com"
+
+
+valido cambios con, ara ver el email
+$ git config --global user.email
+
+
+con el git clone, mantenemos la referencia al repo remoto
+ahora podemos usar, ponemos la rama
+$ git push origin master
+
+
+Sale la ventana blanca para identificarse.
+se recomienda usar la del token para que con eso, solo lo use una ves y listo
+vamos a setting > Developer settings en github
+personal acceso tokens > tokens classic > generate personal tokens
+
+alli pinemos descripcion u los dias de esxpiracion se reocmienda 30 dias
+clic en repos
+
+
+despues de generar el token, lo copiamos y lo metemos en el
+cuadro blanco y queda listo 
+debe decir 100%
+
+la fecha es de hora dle commits
+
+
+ya podriamos usar solo el comando, 
+git push
+
+
+
+pero es prefernete usar el que tiene todo
+$ git push origin master
+
+
+3:11:00 fin
+
+Linea pos fin para prueba
+<<<<<<< HEAD
+
+=======
+var = dos
+>>>>>>> d72d4b72b5ef23f96231a5f53b883bbb17e72028
+
+
+

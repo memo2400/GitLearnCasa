@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 git config --global
@@ -124,3 +125,131 @@ coomits cheaiouts
 
 
 
+=======
+
+
+git config --global
+
+git config --system
+
+git config --user
+
+
+
+ git config --global user.name "desarrollador"
+
+git config --global user.email "guillermorosas00@gmail.com"
+
+
+
+clear limpiar
+
+
+configuro visual estudio code
+-- wait =  cadsa cambio esperara a que cerremos el editor de codigo
+para hacer los commits
+
+
+git config --global core.editor "code --wait"
+
+
+
+cambio el color
+ git config --global color.ui true
+
+
+
+propiedades para servidor
+
+
+auto carry returns lifetime, para solo para windis
+llo que hace es  hacer un enter para bajaruna linea y regresar a la ozquierda
+
+
+win usa el /n/r peor mac solo /n, entonces eso hace que se acompatible con todos lo
+sube solo con /n  y si es windows le agrega o quita el /r
+git config --global core.autocrlf true
+
+
+este para mac asi jala al 100%
+git config --global core.autocrlf input 
+
+
+Creaacion de repositorio
+guardamos organizacomo archivs, control de versiones, etc
+
+hay 3 areas, el espacio de trabajo es la carpeta, el repo es un lkufar que maneja las versiones.
+
+station area, es un punto medio entre el area de trabajo  y el repositorio.
+
+para movernos de carpeetas
+cd d:
+
+entro a una carpeta
+
+cd skins
+
+retrocedo
+cd../
+
+crear carpeta
+mkdir nuevacarpeta
+
+borrar carpeta
+rmdir nuevacarpeta
+
+inicio el repositorio
+git init
+
+todo esta enla carpeta oculta que se crea
+
+muestra archivos
+ls
+
+muestra los archivos visibles
+pwd
+
+archivos ocultos
+en linuz losarchvoios ocultos empiezan con .***
+ls -a
+
+ahora si uso cd.. o cd. ya no uso la barrar para entrar y veo los ocultos
+
+git add. agrega todo, pero no es muy recomendable
+
+git add por cada archivo, con eso se sube al area de preparacion
+
+para agregar dos o mas
+git add archivo1.txt archivo2.txt
+
+
+git status 
+
+
+borramos el archivo o lo descartamos
+esos archivos no se subiran a commits
+git rm --cached archivo
+
+
+commit con mensaje corto
+git commit -m "agrego archivos"
+
+
+despues 
+git status y saldra que todo esta ok porque acabamos de acer el commit
+
+
+abre el visal estidio code por la conmfig que hicimos al inicio
+git commit 
+
+
+para ahorrar los paso de add - commits seusa el comando
+git commit -a
+
+###############################
+
+coomits cheaiouts
+
+
+
+>>>>>>> origin/master
